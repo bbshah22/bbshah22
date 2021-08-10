@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbshah22 (Bhuvni Shah)
-- 👀 I’m interested in ...
+- 👀 I’m interested in social impact technology
 - 🌱 I’m currently learning: iOS dev through CodePath
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhuvni.shah@gmail.com
